@@ -2,4 +2,4 @@
 Source code for MBGD, and example data.
 
 (Figure_data.tar.gz)
-The data in figures in the manuscript of MBGD
+The data in figures of the manuscript of MBGD
