@@ -6,3 +6,6 @@ The data in figures of the manuscript of MBGD
 
 (Figure_data_rev.tar.gz)
 The data in fitures of the revised manuscript of MBGD
+
+(Figure_data_rev2.tar.gz)
+The data in fitures of the second revised manuscript of MBGD
